@@ -120,6 +120,7 @@ main {
     font-size: 40px;
     font-weight: 700;
     width: 288px;
+    margin-bottom: 24px;
 }
 
 .failures-column-description {
@@ -127,12 +128,14 @@ main {
     font-size: 20px;
     font-weight: 400;
     width: 416px;
+    margin-bottom:20px;
 }
 
 .failure-motivation>li {
     color: #444343;
     font-size: 20px;
     font-weight: 400;
+    margin-bottom: 15px;
 }
 
 /* My plans section Css */
@@ -223,13 +226,14 @@ main {
 
 footer {
     background: #151414;
-    
-    width:100%;
 
-    
+    width: 1600px;
+    height: 577px;
+
 
 }
-.footer-zone{
+
+.footer-zone {
     display: flex;
     gap: 200px;
     padding: 130px 230px;
@@ -249,19 +253,23 @@ footer {
     margin-bottom: 24px;
     margin-top: 16px;
 }
-.footer-info{
+
+.footer-info {
     color: #FFF;
-font-size: 16px;
-font-weight: 400;
-margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
 }
-.social-links{
+
+.social-links {
     display: inline;
-  
+
 }
-.social-links > img{
+
+.social-links>img {
     margin-right: 20px;
 }
+
 .footer-email {
     width: 325px;
     height: 64px;
